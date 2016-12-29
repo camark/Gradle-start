@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gm.MessageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-12-29T06:57:31" hostname="USER-PDSGSKJF2L" time="0.067">
+  <properties/>
+  <testcase name="getMessage_ShouldReturnMessage" classname="com.gm.MessageTest" time="0.067"/>
+  <system-out><![CDATA[DEBUG - MessageImpl                - This is a debug msg
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
